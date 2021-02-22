@@ -1,14 +1,14 @@
 {
-  "name": "moovone/timekit-php-sdk",
+  "name": "privyreza/timekit-php-sdk",
   "description": "A basic PHP SDK for timekit.io API",
   "type": "library",
-  "keywords": ["moovone", "php", "sdk", "timekit", "api"],
-  "homepage": "http://github.com/MoovOne/timekit-php-sdk",
+  "keywords": ["privyreza", "php", "sdk", "timekit", "api"],
+  "homepage": "http://github.com/privyreza/timekit-php-sdk",
   "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "David Micheau",
-      "email": "fanel.dev@gmail.com"
+      "email": "privyreza@gmail.com"
     }
   ],
   "minimum-stability": "stable",
